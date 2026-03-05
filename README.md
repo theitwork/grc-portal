@@ -1,1 +1,1 @@
-# compliance-portal
+# GRC Portal
